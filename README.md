@@ -1,3 +1,3 @@
-# leetcode
+# leetcode-javascirpt
 
-日常刷题、算法
+
