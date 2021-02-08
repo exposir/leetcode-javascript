@@ -2,7 +2,7 @@
 
 ## 字符串
 
-[实现 strStr() ](https://github.com/exposir/leetcode-javascript/issues/7)
+1. [实现 strStr() ](https://github.com/exposir/leetcode-javascript/issues/7)
 
 ## 数组
 
