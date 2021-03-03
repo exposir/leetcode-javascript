@@ -4,11 +4,11 @@
 - 数据结构： 一组数据的存储结构
 - 算法：操作数据的一组方法
 
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/54163f16e152f71b8f91d3fba652cf48.jpg)
+![image](https://user-images.githubusercontent.com/33340988/109764388-72206e80-7c2e-11eb-9d33-c1d1a05d67f1.png)
 
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/913e0ababe43a2d57267df5c5f0832a7.jpg)
+![image](https://user-images.githubusercontent.com/33340988/109764399-751b5f00-7c2e-11eb-9853-5706bb357049.png)
 
-### 10个重要数据结构
+## 10个重要数据结构
 - 数组
 - 链表
 - 栈
@@ -20,7 +20,7 @@
 - 图
 - Trie树
 
-### 10个重要算法
+## 10个重要算法
 - 递归
 - 排序
 - 二分查找
@@ -32,18 +32,17 @@
 - 动态规划
 - 字符串匹配算法
 
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/3723793cc5c810e9d5b06bc95325bf0a.jpg)
+[image:799E041A-3A02-474B-81B1-19CA0BB0EF18-4128-00016B97EEE230C3/3723793cc5c810e9d5b06bc95325bf0a.jpg]![image](https://user-images.githubusercontent.com/33340988/109764504-9c722c00-7c2e-11eb-8b3f-993db63fa0cf.png)
 
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/b6b71ec46935130dff5c4b62cf273477.jpg)
+[image:875FC731-69CF-4160-94E2-DCD7C2D56F9D-4128-00016F5FEFDCDEC3/b6b71ec46935130dff5c4b62cf273477.jpg]![image](https://user-images.githubusercontent.com/33340988/109764513-a005b300-7c2e-11eb-91ef-39041e01d6e7.png)
 
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/6ebf42641b5f98f912d36f6bf86f6569.jpg)
+[image:19343CF1-25B7-4C32-BA6C-9192D8F7DCB6-4128-00016F659CD98F0E/6ebf42641b5f98f912d36f6bf86f6569.jpg]![image](https://user-images.githubusercontent.com/33340988/109764539-a6942a80-7c2e-11eb-9b0e-d2d342b3d9cb.png)
 
 ### 数组和链表的区别
 - 数组支持随机访问，根据下标随机访问的时间复杂度为 O(1)。
 - 链表适合插入、删除，时间复杂度 O(1)。
 
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/d5d5bee4be28326ba3c28373808a62cd.jpg)
-
+[image:4E5C9EF2-0553-48E8-B43E-747CD02E4645-4128-000171FCEF65E9BE/d5d5bee4be28326ba3c28373808a62cd.jpg]![image](https://user-images.githubusercontent.com/33340988/109764575-b3b11980-7c2e-11eb-835e-ab62f314e60c.png)
 
 - 单链表反转
 - 链表中环的检测
@@ -51,10 +50,9 @@
 - 删除链表倒数第 n 个结点
 - 求链表的中间结点
 
+[image:5B6BD5D5-8014-4985-A524-76FB62C4E8C9-4128-000175D2F7AB5E38/9eca53f9b557b1213c5d94b94e9dce3e.jpg]![image](https://user-images.githubusercontent.com/33340988/109764614-bf9cdb80-7c2e-11eb-983e-5e9cb157ca31.png)
 
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/9eca53f9b557b1213c5d94b94e9dce3e.jpg)
-
-### 排序算法
+## 排序算法
 - **冒泡排序**
 - **插入排序**
 - 选择排序
@@ -64,8 +62,9 @@
 - 基数排序
 - 桶排序
 
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/fb8394a588b12ff6695cfd664afb17cd.jpg)
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/1f6ef7e0a5365d6e9d68f0ccc71755fd.jpg)
+[image:8D586ECC-93DC-483A-8913-DA90E088EF06-4128-00017AE2085F9B6D/fb8394a588b12ff6695cfd664afb17cd.jpg]![image](https://user-images.githubusercontent.com/33340988/109764633-c75c8000-7c2e-11eb-8955-ae0728ec0166.png)
+
+[image:BE21ED25-2E9B-42F7-A243-1BAC66256AC3-4128-000205B186B382B6/1f6ef7e0a5365d6e9d68f0ccc71755fd.jpg]![image](https://user-images.githubusercontent.com/33340988/109764644-c9beda00-7c2e-11eb-8193-57194300e580.png)
 
 ##### 插入排序和冒泡排序的时间复杂度相同，都是 O(n2)，在实际的软件开发里，为什么我们更倾向于使用插入排序算法而不是冒泡排序算法呢？
 - 冒泡排序需要 3 个赋值操作，而插入排序只需要 1 个
@@ -75,9 +74,10 @@
 - 存消耗
 - 稳定性
 
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/aa03ae570dace416127c9ccf9db8ac05.jpg)
+[image:82FB0B5C-C99D-4C41-8C39-B2F18CC92B1D-4128-00020454B6873CD2/aa03ae570dace416127c9ccf9db8ac05.jpg]![image](https://user-images.githubusercontent.com/33340988/109764697-d6dbc900-7c2e-11eb-9aed-ea54d98b4010.png)
 
-##### 快速排序
+### 快速排序
+
 ```js
     const quickSort = (array) => {
         const sort = (arr, left = 0, right = arr.length - 1) => {
@@ -107,7 +107,6 @@
     }
 ```
 
-
 ## 二分查找
 ##### 性能 logn
 ##### 限制
@@ -126,15 +125,15 @@
 - 可以支持快速地插入、删除、查找操作，写起来也不复杂，甚至可以替代红黑树（Red-black tree）。
 - 时间复杂度 O(logn)
 
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/492206afe5e2fef9f683c7cff83afa65.jpg)
-
+[image:95D61FD5-50E6-4D24-94C4-A2EB091ABAC3-8938-0002410F7F350022/492206afe5e2fef9f683c7cff83afa65.jpg]![image](https://user-images.githubusercontent.com/33340988/109764782-eb1fc600-7c2e-11eb-93bb-99cb47600bdb.png)
 
 
 ## 散列表 Hash Table
 - 键
 - 散列函数
 - 散列值
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/92c89a57e21f49d2f14f4424343a2773.jpg)
+
+[image:1B88F179-27EC-4E36-BCCC-300A088E490F-5290-00005A7FB0844C66/92c89a57e21f49d2f14f4424343a2773.jpg]![image](https://user-images.githubusercontent.com/33340988/109764805-f2df6a80-7c2e-11eb-9a6b-15f64c6d2142.png)
 
 ##### 散列函数设计的基本要求
 - 散列函数计算得到的散列值是一个非负整数
@@ -145,12 +144,11 @@
 - 开放寻址法
 - 链表法
 
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/5c31a3127cbc00f0c63409bbe1fbd0d5.jpg)
+[image:580ACF91-044E-4354-B45C-4F3541FBD5B8-5290-00005B10D674032E/5c31a3127cbc00f0c63409bbe1fbd0d5.jpg]![image](https://user-images.githubusercontent.com/33340988/109764825-fa067880-7c2e-11eb-9cd9-857941ce0c78.png)
 
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/a4b77d593e4cb76acb2b0689294ec17f.jpg)
+[image:F3AE8D30-4E13-4603-84B5-AD0D56065065-5290-00005B12A0CB01D8/a4b77d593e4cb76acb2b0689294ec17f.jpg]![image](https://user-images.githubusercontent.com/33340988/109764835-fd016900-7c2e-11eb-96bb-048c88bec960.png)
 
-
-##### 工业级散列表特性
+工业级散列表特性
 - 支持快速查询、插入、删除操作
 - 内存占用合理，不能浪费过多内存空间
 - 性能稳定，极端情况下，散列表的性能也不会退化到无法接受的情况
@@ -186,21 +184,21 @@
 ##### 完全二叉树
 - 完全二叉树要求，除了最后一层，其他层的节点个数都是满的，最后一层的节点都靠左排列。
 
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/220043e683ea33b9912425ef759556ae.jpg)
+[image:ACD60302-EBCA-4211-87A7-10CD18EE1AC7-811-0000286F8CB31D8B/220043e683ea33b9912425ef759556ae.jpg]![image](https://user-images.githubusercontent.com/33340988/109765012-3934c980-7c2f-11eb-96cb-0b3ed0f585ff.png)
 
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/4094a733986073fedb6b9d03f877d71e.jpg)
+[image:610595E6-D80C-41D6-AB49-AF9823ECE8D8-811-0000287097DBDF0D/4094a733986073fedb6b9d03f877d71e.jpg]![image](https://user-images.githubusercontent.com/33340988/109765021-3b972380-7c2f-11eb-8fe4-16eee7e03ca8.png)
 
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/50f89510ad1f7570791dd12f4e9adeb4.jpg)
+[image:C8B7BA36-27E2-4A0E-8B3D-C48161BE465A-811-000028727AAFEDA7/50f89510ad1f7570791dd12f4e9adeb4.jpg]![image](https://user-images.githubusercontent.com/33340988/109765032-3e921400-7c2f-11eb-8eb1-d7195477520c.png)
 
 ### 存储二叉树
 
 ##### 链式存储法
 
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/12cd11b2432ed7c4dfc9a2053cb70b8e.jpg)
+[image:5FBB5F0A-4DF4-477B-B7CE-AA9AF09150E8-811-000028C0EE0FB52F/12cd11b2432ed7c4dfc9a2053cb70b8e.jpg]![image](https://user-images.githubusercontent.com/33340988/109765047-45b92200-7c2f-11eb-8e03-9a22b903359a.png)
 
 ##### 顺序存储法
 
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/14eaa820cb89a17a7303e8847a412330.jpg)
+[image:D713BCAC-0AFF-43AF-B875-3BF82B43803D-811-000028C91031E8C4/14eaa820cb89a17a7303e8847a412330.jpg]![image](https://user-images.githubusercontent.com/33340988/109765097-579ac500-7c2f-11eb-8233-f035bc780f62.png)
 
 ### 二叉树遍历
 
@@ -208,15 +206,15 @@
 - 中序遍历是指，对于树中的任意节点来说，先打印它的左子树，然后再打印它本身，最后打印它的右子树。
 - 后序遍历是指，对于树中的任意节点来说，先打印它的左子树，然后再打印它的右子树，最后打印这个节点本身。
 
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/ab103822e75b5b15c615b68560cb2416.jpg)
+[image:187C9B00-4015-431E-9CDE-175A885E8713-811-0000290ACB50C03B/ab103822e75b5b15c615b68560cb2416.jpg]![image](https://user-images.githubusercontent.com/33340988/109765109-5d90a600-7c2f-11eb-9f2d-22388cd3cfe2.png)
 
 ## 二叉查找树 O(logn)
 ##### 定义
 -  二叉查找树要求，在树中的任意一个节点，其左子树中的每个节点的值，都要小于这个节点的值，而右子树节点的值都大于这个节点的值。
 
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/f3bb11b6d4a18f95aa19e11f22b99bae.jpg)
+[image:AA3DC657-FB8E-4897-81DA-318B84B1AC08-811-00002C68CDA98376/f3bb11b6d4a18f95aa19e11f22b99bae.jpg]![image](https://user-images.githubusercontent.com/33340988/109765126-62edf080-7c2f-11eb-9ca4-dd950495fcf2.png)
 
-##### 操作
+操作
 - 查找
 - 插入
 - 删除
@@ -235,7 +233,7 @@
 ##### 什么是“平衡二叉查找树”？
 - 二叉树中任意一个节点的左右子树的高度相差不能大于 1
 
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/dd9f5a4525f5029a8339c89ad1c8159b.jpg)
+[image:9E0BD85C-E685-48B0-B97D-09F7C7913EF7-811-00002A769A05B339/dd9f5a4525f5029a8339c89ad1c8159b.jpg]![image](https://user-images.githubusercontent.com/33340988/109765167-6ed9b280-7c2f-11eb-93ea-706332f15139.png)
 
 ##### 定义
 - 根节点是黑色的
@@ -243,11 +241,10 @@
 - 任何相邻的节点都不能同时为红色，也就是说，红色节点是被黑色节点隔开的
 - 每个节点，从该节点到达其可达叶子节点的所有路径，都包含相同数目的黑色节点
 
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/903ee0dcb62bce2f5b47819541f9069a.jpg)
+[image:FA2E48D6-70A8-4A85-8007-B12240A4ABD1-811-00002B15DC311397/903ee0dcb62bce2f5b47819541f9069a.jpg]![image](https://user-images.githubusercontent.com/33340988/109765191-76995700-7c2f-11eb-9dcf-d3476a7c360c.png)
 
 - 红黑树是一种平衡二叉查找树。它是为了解决普通二叉查找树在数据更新的过程中，复杂度退化的问题而产生的。红黑树的高度近似 log2n，所以它是近似平衡，插入、删除、查找操作的时间复杂度都是 O(logn)。
 - 因为红黑树是一种性能非常稳定的二叉查找树，所以，在工程中，但凡是用到动态插入、删除、查找数据的场景，都可以用到它。
-
 
 ## 堆
 ##### 定义
@@ -255,15 +252,15 @@
 - 堆中每一个节点的值都必须大于等于（或小于等于）其子树中每个节点的值
 - 对于每个节点的值都大于等于子树中每个节点值的堆，我们叫做“大顶堆”。对于每个节点的值都小于等于子树中每个节点值的堆，我们叫做“小顶堆”。
 
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/4d349f57947df6590a2dd1364c3b0b1e.jpg)
+[image:7EBE9663-60FE-48AA-B3BE-7E0406C5087B-811-00002BFAB7ADE5BF/4d349f57947df6590a2dd1364c3b0b1e.jpg]![image](https://user-images.githubusercontent.com/33340988/109765212-82851900-7c2f-11eb-96b9-651572150381.png)
 
 ##### 操作
 - 插入
 - 删除
 
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/e3744661e038e4ae570316bc862b2c0e.jpg)
+[image:B9DFBFFC-9FD5-48CF-A5EA-C5E75D58B60D-811-00002C0C589F3353/e3744661e038e4ae570316bc862b2c0e.jpg]![image](https://user-images.githubusercontent.com/33340988/109765231-887afa00-7c2f-11eb-9859-c403aa181498.png)
 
-## 堆排序
+堆排序
 - 建堆
 - 排序
 
@@ -287,11 +284,11 @@
 
 ##### how hi her hello so see 
 
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/f848a7d8bda3d4f8bb4a7cbfaabab66c.jpg)
+[image:613407BC-752A-4A42-97AA-DB2469617ABF-811-00005A9D0EA985A3/f848a7d8bda3d4f8bb4a7cbfaabab66c.jpg]![image](https://user-images.githubusercontent.com/33340988/109765261-92046200-7c2f-11eb-8c32-d1a01a8633cf.png)
 
-![](%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E/06b45fde2ca8077465e0c557bc749ab6.jpg)
+[image:991DDB0A-0BAB-4DA7-93D7-CCA64959D53D-811-00005A9E3B39F0B2/06b45fde2ca8077465e0c557bc749ab6.jpg]![image](https://user-images.githubusercontent.com/33340988/109765275-9597e900-7c2f-11eb-8962-917eea941831.png)
 
-##### 时间复杂度
+时间复杂度
 - 构建 O(n)
 - 查询 O(k)
 
@@ -318,4 +315,12 @@
 
 ## 动态规划
 - 大部分动态规划能解决的问题，都可以通过回溯算法来解决，只不过回溯算法解决起来效率比较低，时间复杂度是指数级的。动态规划算法，在执行效率方面，要高很多。尽管执行效率提高了，但是动态规划的空间复杂度也提高了，所以，很多时候，我们会说，动态规划是一种空间换时间的算法思想。
+
+
+
+
+
+
+
+
 
