@@ -4,6 +4,8 @@
 - 数据结构： 一组数据的存储结构
 - 算法：操作数据的一组方法
 
+- O(1) < O(log n) < O(n) < O(n log n) < O(n2) < O(n3) < O(2n)
+
 ![image](https://user-images.githubusercontent.com/33340988/109764388-72206e80-7c2e-11eb-9d33-c1d1a05d67f1.png)
 
 ![image](https://user-images.githubusercontent.com/33340988/109764399-751b5f00-7c2e-11eb-9853-5706bb357049.png)
